@@ -17,4 +17,4 @@ Backend engineer focused on building scalable systems with Java, Spring Boot, an
 - AWS Certified Cloud Practitioner (Dec 2024)
 
 
-📫 [LinkedIn](https://www.linkedin.com/in/basistha-kr/) · [Email](mailto:basisthakum@proton.me)
+📫 [Email](mailto:basisthakum@proton.me)
