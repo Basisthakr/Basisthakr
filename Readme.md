@@ -4,7 +4,7 @@ Backend engineer focused on building scalable systems with Java, Spring Boot, an
 
 ## Tech Stack
 **Languages:** Java, Kotlin(Basic), SQL  
-**Backend:** Spring Boot, Microservices, REST APIs, WebSockets, Kafka , Kubernetes
+**Backend:** Spring Boot, Microservices, REST APIs, WebSockets, Kafka , Kubernetes                                     
 **Cloud & DevOps:** AWS (Solutions Architect Associate + Cloud Practitioner), Docker  
 **Databases:** PostgreSQL, MySQL, Redis  
 
